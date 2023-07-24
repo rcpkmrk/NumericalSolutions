@@ -1,3 +1,3 @@
 # Numerical Problems
--Includes the base code and some results for some projects <br>
+-Includes the base code and some results for the projects <br>
 -Used FORTRAN77 & FORTRAN90
